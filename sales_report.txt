@@ -1,0 +1,16 @@
+Total Sales: 990 
+ 
+Average Sales per Month: 330 
+ 
+January Sales: 490 | Clothes: 220 | Shoes: 270 | Highest: 140 | Lowest: 100 
+ 
+February Sales: 240 | Clothes: 150 | Shoes: 90 | Highest: 150 | Lowest: 90 
+ 
+March Sales: 260 | Clothes: 100 | Shoes: 160 | Highest: 160 | Lowest: 100 
+ 
+Sales by Product Category: 
+ 
+ Clothes: 470 (47.474747474747474)% 
+ 
+ Shoes: 520 (52.52525252525253)% 
+ 
