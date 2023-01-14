@@ -1,16 +1,16 @@
-Total Sales: 990 
+Total Sales: 266000 
  
-Average Sales per Month: 330 
+August Sales: 65000 | Rice: 15000 | Beans: 50000 | Highest: 40000 | Lowest: 10000 
  
-January Sales: 490 | Clothes: 220 | Shoes: 270 | Highest: 140 | Lowest: 100 
+November Sales: 73000 | Rice: 60000 | Beans: 13000 | Highest: 60000 | Lowest: 1000 
  
-February Sales: 240 | Clothes: 150 | Shoes: 90 | Highest: 150 | Lowest: 90 
+December Sales: 128000 | Rice: 113000 | Beans: 15000 | Highest: 100000 | Lowest: 13000 
  
-March Sales: 260 | Clothes: 100 | Shoes: 160 | Highest: 160 | Lowest: 100 
+Average Sales per Month: 88666 
  
 Sales by Product Category: 
  
- Clothes: 470 (47.474747474747474)% 
+ Rice: 188000 (70.67669172932331)% 
  
- Shoes: 520 (52.52525252525253)% 
+ Beans: 78000 (29.32330827067669)% 
  
